@@ -1,0 +1,18 @@
+body {
+    background: #222;
+}
+
+section {
+    background: rgba(255, 255, 255,.6);
+    box-sizing: border-box;
+    margin: 1%;
+    float: left;
+    padding: 15px;
+    width: 48%;
+
+}
+
+img {
+    max-width: 100%;
+}
+
